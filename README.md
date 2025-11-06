@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes made to demonstrate such skills as the git basics of forming and cloning a repositry onto local machine using SSH, also opening the README file in code editor with [ code .] in terminal.
